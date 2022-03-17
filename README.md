@@ -1,3 +1,3 @@
 # iac-demo
 
-trying out the terraform modules and stuff !! 
+terraform modules and stuff !! 
